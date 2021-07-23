@@ -1,0 +1,16 @@
+C:\Users\nande\Desktop\BIOS\PracticoIntroduccion\PracticoIntroduccion\bin\Debug\net5.0\PracticoIntroduccion.exe
+C:\Users\nande\Desktop\BIOS\PracticoIntroduccion\PracticoIntroduccion\bin\Debug\net5.0\PracticoIntroduccion.deps.json
+C:\Users\nande\Desktop\BIOS\PracticoIntroduccion\PracticoIntroduccion\bin\Debug\net5.0\PracticoIntroduccion.runtimeconfig.json
+C:\Users\nande\Desktop\BIOS\PracticoIntroduccion\PracticoIntroduccion\bin\Debug\net5.0\PracticoIntroduccion.runtimeconfig.dev.json
+C:\Users\nande\Desktop\BIOS\PracticoIntroduccion\PracticoIntroduccion\bin\Debug\net5.0\PracticoIntroduccion.dll
+C:\Users\nande\Desktop\BIOS\PracticoIntroduccion\PracticoIntroduccion\bin\Debug\net5.0\ref\PracticoIntroduccion.dll
+C:\Users\nande\Desktop\BIOS\PracticoIntroduccion\PracticoIntroduccion\bin\Debug\net5.0\PracticoIntroduccion.pdb
+C:\Users\nande\Desktop\BIOS\PracticoIntroduccion\PracticoIntroduccion\obj\Debug\net5.0\PracticoIntroduccion.csproj.AssemblyReference.cache
+C:\Users\nande\Desktop\BIOS\PracticoIntroduccion\PracticoIntroduccion\obj\Debug\net5.0\PracticoIntroduccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nande\Desktop\BIOS\PracticoIntroduccion\PracticoIntroduccion\obj\Debug\net5.0\PracticoIntroduccion.AssemblyInfoInputs.cache
+C:\Users\nande\Desktop\BIOS\PracticoIntroduccion\PracticoIntroduccion\obj\Debug\net5.0\PracticoIntroduccion.AssemblyInfo.cs
+C:\Users\nande\Desktop\BIOS\PracticoIntroduccion\PracticoIntroduccion\obj\Debug\net5.0\PracticoIntroduccion.csproj.CoreCompileInputs.cache
+C:\Users\nande\Desktop\BIOS\PracticoIntroduccion\PracticoIntroduccion\obj\Debug\net5.0\PracticoIntroduccion.dll
+C:\Users\nande\Desktop\BIOS\PracticoIntroduccion\PracticoIntroduccion\obj\Debug\net5.0\ref\PracticoIntroduccion.dll
+C:\Users\nande\Desktop\BIOS\PracticoIntroduccion\PracticoIntroduccion\obj\Debug\net5.0\PracticoIntroduccion.pdb
+C:\Users\nande\Desktop\BIOS\PracticoIntroduccion\PracticoIntroduccion\obj\Debug\net5.0\PracticoIntroduccion.genruntimeconfig.cache
